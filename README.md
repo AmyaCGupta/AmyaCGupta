@@ -6,4 +6,4 @@
 ❀ Sharing what I learn along the way and building skills step by step <br/>
 
 
-[![Amya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmyaCGupta)](https://github.com/AmyaCGupta/github-readme-stats)
+[![Amya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmyaCGupta&show_icons=true&theme=radical_hide_rank=true)](https://github.com/AmyaCGupta/github-readme-stats)
